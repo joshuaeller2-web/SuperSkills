@@ -1,6 +1,6 @@
 # Skill catalog
 
-Snapshot of 25 packages. Descriptions below are package metadata, not tested capability claims.
+Snapshot of 26 packages. Descriptions below are package metadata, not tested capability claims.
 
 | Skill | Description |
 |---|---|
@@ -16,6 +16,7 @@ Snapshot of 25 packages. Descriptions below are package metadata, not tested cap
 | [skill-usage-recorder](skills/skill-usage-recorder/SKILL.md) | Record which installed skills were used for a request and give one short reason for each. This is an always-run reporting control; it records routing and support skills without replacing the task's primary skill. |
 | [stack-router](skills/stack-router/SKILL.md) | Apply a lightweight route decision to each request, choose one primary installed skill when needed, route authorized Company OS work to the narrowest responsible agent, and explain master, super, sub-master and minor placement during skill audits. |
 | [standing-jobs](skills/standing-jobs/SKILL.md) | Create or review recurring jobs, monitors and digests with clear scope, stopping conditions and evidence-based reports. Use for scheduled work; use the current host scheduler instead of assuming Hermes-only execution. |
+| [watch-youtube](skills/watch-youtube/SKILL.md) | Process YouTube videos and playlists into transcript-grounded knowledge-vault notes, Qwen training data, and repeatable-procedure skill candidates, with resumable local recovery for transcript IP blocks. |
 | [super-clear-answers](skills/super-clear-answers/SKILL.md) | Give concise, easy-to-scan answers when the user asks for less writing, direct answers, an attention-friendly explanation, or a rewrite that preserves the essential facts. Controls presentation, not task scope or depth of investigation. |
 | [super-decision-council](skills/super-decision-council/SKILL.md) | Stress-test a consequential decision through contrasting perspectives, challenge assumptions, and synthesize a practical recommendation. Use when asked for a council, multiple viewpoints, a decision critique, or a strategic tradeoff analysis; not ordinary factual lookup. |
 | [super-investment-research](skills/super-investment-research/SKILL.md) | Research listed companies, compare valuation and business quality, analyze trading hypotheses, and assess portfolio or strategy risk with sourced data and explicit assumptions. Use for investment research and backtesting; research does not authorize brokerage actions. |

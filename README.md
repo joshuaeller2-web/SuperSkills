@@ -6,7 +6,7 @@ Browse the [skill catalog](CATALOG.md). Each package has a `SKILL.md` entry poin
 
 ## Contents
 
-- 25 skill packages under `skills/`, including the Super Skills, shared domain workflows, routing controls, Company OS entry points, Archify, and Visual System.
+- 26 skill packages under `skills/`, including the Super Skills, shared domain workflows, routing controls, Company OS entry points, Archify, Visual System, and watch-youtube.
 - `manifest.json` records SHA-256 hashes and sizes for the exported skill files.
 - `scripts/validate_snapshot.py` checks file integrity and rejects unexpected files in the skill tree.
 

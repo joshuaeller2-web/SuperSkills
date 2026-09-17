@@ -1764,6 +1764,11 @@
       "bytes": 6691
     },
     {
+      "path": "skills/watch-youtube/SKILL.md",
+      "sha256": "ce53049ec79e0f9126dabab73bac4eada20b40ee08f46729730d77c6eb7a40da",
+      "bytes": 15965
+    },
+    {
       "path": "skills/workbench/references/draft-methods.md",
       "sha256": "e2bbaa984048f83b54a217978831f70539fb582730f43549ea66b11a6c954b36",
       "bytes": 517

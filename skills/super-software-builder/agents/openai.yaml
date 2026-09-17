@@ -1,0 +1,3 @@
+interface:
+  display_name: "Super Software Builder"
+  short_description: "Plan, build, and verify complete software changes"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shared Visual System"
+  short_description: "Unify UI, diagrams, and 3D design workflows"
+  default_prompt: "Use $visual-system to develop a coherent visual direction across the requested media, build a representative slice, and verify each deliverable in its intended destination."

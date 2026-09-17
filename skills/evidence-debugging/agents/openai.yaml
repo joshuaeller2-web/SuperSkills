@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Debugging"
+  short_description: "Reproduce, diagnose, fix, and verify software bugs"
+  default_prompt: "Use $evidence-debugging to diagnose this failure and verify the smallest supported fix."

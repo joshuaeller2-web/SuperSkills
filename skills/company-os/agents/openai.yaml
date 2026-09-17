@@ -1,0 +1,6 @@
+interface:
+  display_name: "Company OS"
+  short_description: "Find your agents and run Company OS assignments"
+  default_prompt: "Use $company-os to help me choose the right agent and organize my next assignment."
+policy:
+  allow_implicit_invocation: true

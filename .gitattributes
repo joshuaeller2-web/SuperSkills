@@ -1,0 +1,3 @@
+* text=auto
+# Keep the exported skill snapshot byte-identical across platforms.
+skills/** -text

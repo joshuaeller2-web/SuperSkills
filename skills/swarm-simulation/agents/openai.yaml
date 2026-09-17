@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swarm Simulation"
+  short_description: "Stress-test scenarios with bounded multi-agent simulations"
+  default_prompt: "Use swarm-simulation to design or assess a bounded multi-agent scenario simulation."
